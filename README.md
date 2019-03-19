@@ -1,4 +1,4 @@
-### oop_bcd_adder_example 
+### oop_bcd_adder_example ( object oriented programing example )
 
 using oop create bcd adder <br>
 
@@ -12,7 +12,7 @@ and2 gate =x1+x0 (0+0) =0 carry out =0 <br>
 <br>
 or1 gate =and1 out + and2 out (0+0) =0 <br>
 <br>
-or2 gate =or1 gate + carry out (0 + 1) = 1  <br>
+or2 gate =or1 out + carry out (0 + 1) = 1  <br>
 
 adder2 out : <br>
 s3=(adder1 out x3 + 0) : 0+0 = 0 <br>
